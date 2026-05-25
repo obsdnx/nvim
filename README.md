@@ -9,17 +9,17 @@ A hacker-aesthetic Neovim 0.11+ configuration built around a strict black-and-gr
 ## Screenshots
 
 ### Dashboard
-![Dashboard](.context/attachments/1WVhpT/Screenshot%202026-05-25%20at%2006.14.24.png)
+![Dashboard](assets/dashboard.png)
 
 The `alpha-nvim` dashboard greets you with a pixelated **HACKER** ASCII header and quick-access keybindings. The tagline `> SYSTEM COMPROMISED — ENTER NEOVIM <` sets the tone.
 
 ### Dashboard + File Explorer
-![Dashboard with file explorer](.context/attachments/clJ9hO/Screenshot%202026-05-25%20at%2006.15.37.png)
+![Dashboard with file explorer](assets/dashboard-explorer.png)
 
 `nvim-tree` opens on the left (30 cols wide) alongside the dashboard. The explorer respects the hacker palette — green folder names, git status markers, and no noise.
 
 ### Editor
-![Editor with code](.context/attachments/PdjM15/Screenshot%202026-05-25%20at%2006.16.16.png)
+![Editor with code](assets/editor.png)
 
 Active editing view with `lualine` status bar, buffer tabs via `bufferline`, and the full green-on-black colorscheme applied to syntax highlighting.
 
